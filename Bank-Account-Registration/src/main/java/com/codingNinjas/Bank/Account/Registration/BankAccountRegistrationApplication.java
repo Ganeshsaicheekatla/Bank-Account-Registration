@@ -16,8 +16,6 @@ public class BankAccountRegistrationApplication {
 	public static void main(String[] args) {
 
 		/*
-		You need to complete this application as mentioned in the problem 
-		statement build your own logic and perform the following tasks.
 		
 		* 1. Fetch context from ApplicationContext.xml and initiate scanner.
 		* 2. Get user details from console.
